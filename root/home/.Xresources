@@ -1,0 +1,18 @@
+URxvt.font:     xft:bitstream vera sans mono:size=16:antialias=true
+
+
+URxvt.background: black
+URxvt.foreground: white
+URxvt.scrollBar: false
+URxvt.saveLines: 65535
+
+URxvt.letterspace: -3
+
+URxvt.transparent: True
+URxvt.shading: 30
+
+URxvt.secondaryScreen: 1
+URxvt.secondaryScroll: 0
+
+URxvt.perl-ext:
+URxvt.perl-ext-common:
